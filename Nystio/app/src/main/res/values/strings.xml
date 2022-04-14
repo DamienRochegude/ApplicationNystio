@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TriV.1</string>
+
+    <!-- Page de Bienvenue -->
+    <string name="welcome_page_title">Bienvenue,</string>
+    <string name="welcome_page_subtitle">Recyclons ensemble !</string>
+
+    <!-- Page d'Accueil -->
+    <string name="product_page">Produits</string>
+    <string name="name_product">Nom objet</string>
+    <string name="material_page">Matériaux</string>
+    <string name="name_material">Carton</string>
+    <string name="info_material">Info</string>
+
+</resources>

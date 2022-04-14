@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487556160802",
+    "project_id": "base-de-tri",
+    "storage_bucket": "base-de-tri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487556160802:android:2a7d498378e700b061197b",
+        "android_client_info": {
+          "package_name": "fr.mazelou.triv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487556160802-va5tqmus0mu2c6kb05jgun4lr69ml62l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NHmwOlItWtOrki4YSf59pY2GE5i0rFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487556160802-va5tqmus0mu2c6kb05jgun4lr69ml62l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
